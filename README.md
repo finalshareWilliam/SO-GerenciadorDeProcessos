@@ -1,2 +1,4 @@
 # SO-GerenciadorDeProcessos
- Sistema Operacional - Algoritmo de Escalonamento
+ Sistema Operacional - Algoritmo de Escalonamento.
+
+ 
